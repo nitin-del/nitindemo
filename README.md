@@ -1,4 +1,4 @@
 # nitindemo
 This is my first repository 
 <br>
-Author - nitinkbohre
+Author - nitinkbohre (This is author name)
